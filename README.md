@@ -1,5 +1,5 @@
 # hello-fani
-Tutorial for github
+
 import java.awt.Button;
 import java.awt.Frame;
 import java.awt.event.ActionEvent;
